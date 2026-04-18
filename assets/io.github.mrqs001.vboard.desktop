@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=VBoard
+Comment=Movable virtual keyboard for Linux
+Exec=vboard-rs
+Icon=io.github.mrqs001.vboard
+Terminal=false
+Categories=Utility;Accessibility;
+StartupNotify=false
